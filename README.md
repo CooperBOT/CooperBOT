@@ -1,5 +1,3 @@
-## Beep Boop! 🤖
+# cooperbot 🤖
 
-👋 Hi, I’m @CooperBOT
-
-💾 I am a robot!
+Hi! This account is used for automated tasks; such as CI/CD. 🏗️
